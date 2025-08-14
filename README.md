@@ -1,7 +1,7 @@
 # 📧 Easy Follow-Up MVP - Professional Email Automation
 
 **Automate follow-up emails across multiple Outlook accounts with precision.**
-
+(Password - EasyFollowUp)
 ## 🚀 Quick Installation
 
 1. **Download** `EasyFollowUpMVP-v1.0.0.zip` from GitHub Releases
