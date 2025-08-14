@@ -12,7 +12,7 @@
 ## 🔒 Activation
 
 1. **Copy** your machine code from the activation dialog
-2. **Email** machine code to: getmytoolactivate@outlook.com or getmytoolactivate2@outlook.com
+2. **Email** machine code to: getmytoolactivate@outlook.com or getmytoolactivate2@gmail.com
 3. **Enter** activation key when received (usually within 24 hours)
 4. **Start** automating your follow-up emails!
 
@@ -40,6 +40,6 @@
 
 ## 📞 Support
 
-**Email:** getmytoolactivate@outlook.com or getmytoolactivate2@outlook.com  
+**Email:** getmytoolactivate@outlook.com or getmytoolactivate2@gmail.com  
 **Response Time:** 24 hours maximum  
 **License Activation:** Usually within 24 hours
