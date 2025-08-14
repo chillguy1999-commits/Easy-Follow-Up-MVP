@@ -36,7 +36,7 @@
 
 - **Personal License**: $9.99 (1 machine)
 - **Business License**: $44.99 (up to 5 machines)
-- **Enterprise License**: $99.9 (unlimited machines)
+- **Enterprise License**: $99.9 (up to 20 machines)
 
 ## 📞 Support
 
