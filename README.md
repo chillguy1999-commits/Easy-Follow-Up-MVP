@@ -5,14 +5,14 @@
 ## 🚀 Quick Installation
 
 1. **Download** `EasyFollowUpMVP-v1.0.0.zip` from GitHub Releases
-2. **Extract** the zip file to a folder
+2. **Extract** the zip file to a folder ( password:EasyFollowUpMVP)
 3. **Run** `setup.exe` (Windows will download prerequisites automatically)
 4. **Launch** Outlook - the add-in will be available in the ribbon
 
 ## 🔒 Activation
 
-1. **Copy** your machine code from the activation dialog
-2. **Email** machine code to: getmytoolactivate@outlook.com or getmytoolactivate2@gmail.com
+1. **Copy** your Request code from the activation dialog
+2. **Email** Request code to: getmytoolactivate@outlook.com or getmytoolactivate2@gmail.com
 3. **Enter** activation key when received (usually within 24 hours)
 4. **Start** automating your follow-up emails!
 
